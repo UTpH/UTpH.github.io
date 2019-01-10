@@ -11,12 +11,6 @@ header h2 {
     font-size: 25px;
 }
 
-.sidebar {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    margin-bottom: 20px;
-    margin-top: 0;
+#main-content {
+    float: none;
 }
